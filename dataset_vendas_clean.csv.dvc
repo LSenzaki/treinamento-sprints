@@ -1,0 +1,5 @@
+outs:
+- md5: 65b0b8011d67c62776dbdc50427fd54f
+  size: 1960853139
+  hash: md5
+  path: dataset_vendas_clean.csv

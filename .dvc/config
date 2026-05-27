@@ -3,3 +3,5 @@
 ['remote "storage"']
     url = s3://projeto-vini/
     endpointurl = https://482d8ce692337cfe6cce7e2d7ac985cf.r2.cloudflarestorage.com
+    access_key_id = 286b0137092234db434835f84f9a6876
+    secret_access_key = 0e2bb3c591c0a5612316cd260018fbbb88e4ad77d0d34aa3af9223d08aab4fd6

@@ -1,2 +1,7 @@
 /dataset_vendas.csv
 /dataset_vendas_clean.csv
+/dataset_vendas_clean.parquet
+/clean_log.json
+/tmp_*.csv
+/tmp_*.parquet
+/tmp_*.json

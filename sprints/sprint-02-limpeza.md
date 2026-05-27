@@ -27,13 +27,15 @@
 - [ ] Definir regra para outliers (descartar vs. winsorizar)
 
 ### 5. Padronização textual
-- [ ] Nome de produto (maiúsculas/minúsculas, espaços extras)
-- [ ] Cidades e filiais (consistência de grafia)
-- [ ] Categoria do produto
+- [x] Nome de produto (maiúsculas/minúsculas, espaços extras) — `normalize_text` em `clean.py`
+- [x] Cidades e filiais (consistência de grafia) — idem
+- [x] Categoria do produto — idem
+- [x] Comparação antes/depois documentada em `docs/sprint-02/padronizacao_textual.md`
 
 ### 6. Script reproduzível
-- [ ] Criar `clean.py` que recebe CSV bruto e gera CSV limpo
-- [ ] Gerar log com contagens de linhas alteradas/removidas
+- [x] `clean.py` recebe CSV bruto e gera CSV (+ parquet opcional) limpo
+- [x] Log JSON estruturado (`clean_log.json`) com contagens por etapa
+- [x] README atualizado com instruções de execução
 
 ## Definition of Done
 

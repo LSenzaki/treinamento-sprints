@@ -1,0 +1,5 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = s3://projeto-vini/
+    endpointurl = https://482d8ce692337cfe6cce7e2d7ac985cf.r2.cloudflarestorage.com
